@@ -13,7 +13,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    padding: 35px 12%;
+    padding: 15px 9%;
     backdrop-filter: blur(10px);
     display: flex;
     align-items: center;
@@ -100,7 +100,7 @@ span {
 }
 
 img:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 15px 25px black;
 }
 
@@ -197,7 +197,7 @@ img:hover {
 
 .about-img img {
     position: relative;
-    width: 500px;
+    width: 350px;
     border-radius: 50%;
     box-shadow: 0 0 60px gold;
 }
@@ -271,7 +271,8 @@ a:hover {
 .contact-form form .input-box input,
 .contact-form form .input-box textarea {
     width: 100%;
-    padding: 1.5em;
+    padding: 1.5
+    em;
     font-size: 18px;
     color: gold;
     background: black;
